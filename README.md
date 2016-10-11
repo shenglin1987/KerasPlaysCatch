@@ -20,4 +20,4 @@ ffmpeg -i %03d.png output.gif -vf fps=1
 * Python science stack (numpy, scipy, matplotlib) - Install Anaconda!
 * Theano or Tensorflow
 * Keras
-* ffmpeg (optional)
+* ffmpeg (optional), for mac， Homebrew works well
